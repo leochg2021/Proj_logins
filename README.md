@@ -1,5 +1,6 @@
 <h1> Tela de Login e Account</h1>
-Este é um projeto simples de uma tela de login feita com HTML e CSS.
+Este é um projeto simples de uma tela de login feita com HTML e CSS.<br>
+<h6>Projeto esta em fase de conclusão -> ajustar a responsividade.</h6>
 
 ## Funcionalidades
 
