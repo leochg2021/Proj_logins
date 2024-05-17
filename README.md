@@ -25,7 +25,8 @@ Este é um projeto simples de uma tela de login feita com HTML e CSS.
 
 ## Pré-visualização
 
-Inserir uma imagem ou um GIF aqui demonstrando a aparência da tela de login.
+<img src="https://github.com/leochg2021/Proj_logins/blob/main/img/Mockup_Login.png?raw=true"> <br>
+
 
 ## Contribuição
 <ha>Projeto desenvolvido com Instrutor Pedro da equipe <a href="https://rodolfomori.com.br/devClub">DevClub</a></h2>
