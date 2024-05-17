@@ -3,7 +3,7 @@ Este é um projeto simples de uma tela de login feita com HTML e CSS.
 
 ## Funcionalidades
 
-- Campo de entrada de nome de usuário.
+- Campo de entrada de email de usuário.
 - Campo de entrada de senha.
 - Botão "Login" para enviar os dados.
 - Design responsivo para se adaptar a diferentes tamanhos de tela.
