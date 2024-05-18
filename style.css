@@ -176,5 +176,12 @@ a:hover::after {
     background: #d93856;
     bottom: -3px;
     left: 0;
-
 }
+
+@media screen and (max-width: 415px) {
+    .phone {
+        width: 300px;
+        height: 100vh;
+    }
+    
+    }
